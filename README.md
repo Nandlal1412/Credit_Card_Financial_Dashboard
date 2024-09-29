@@ -1,9 +1,13 @@
 # Credit_Card_Financial_Dashboard
 Power BI Dashboard
 
-Project Objective: To develop a comprehensive card weekly dashboard that provide real time insights into key performance metrics and trends, enable stakeholders to monitor and analyze credit card operations effectively.
+Project Objective:
 
-Steps: Data Preparation, Database Creation, Data Integration, Data Transformation and Dashboard Design.
+To develop a comprehensive card weekly dashboard that provide real time insights into key performance metrics and trends, enable stakeholders to monitor and analyze credit card operations effectively.
+
+Steps: 
+
+Data Preparation, Database Creation, Data Integration, Data Transformation and Dashboard Design.
 
 Insights: 
 
@@ -19,5 +23,5 @@ Insights:
 
   Customer Satisfaction Score is 3.19
 
-  ......... etc.
+  and more.....
   
