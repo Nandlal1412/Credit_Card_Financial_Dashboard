@@ -13,9 +13,9 @@ Insights:
 
   Overall Revenue is 55M
 
-  Total Interset is 8M
+  Total Interest is 8M
 
-  Total Transaction Amoount is 45M
+  Total Transaction Amount is 45M
 
   Male customers contributing more in Revenue 30M, female 25M
 
